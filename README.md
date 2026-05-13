@@ -16,6 +16,9 @@ margin across 4 regions and 6 sales reps.
 - `02_analysis_queries.sql` — 10 analysis queries (revenue, profit, QoQ growth)
 - `Sales_Performance_Data.xlsx` — Dataset connected to Power BI
 
+## 📊 Power BI Dashboard
+[▶ Download .pbix file (Google Drive)](https://drive.google.com/drive/folders/1JZ61Cwrij3lYSkh9hgGV9396Prq4j-RD?usp=sharing)
+
 ## Dashboard Preview
 ![Page 1](Screenshot 2026-05-13 230842.p...)
 ![Page 2](Screenshot 2026-05-13 230901.p...)
